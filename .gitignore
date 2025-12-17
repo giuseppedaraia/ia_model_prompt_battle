@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.env
+venv/
+node_modules/
+.DS_Store
+verify_frontend.py
+/verification/

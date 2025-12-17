@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+anthropic
+google-generativeai
+mistralai
+python-multipart
+httpx
